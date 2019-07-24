@@ -1,8 +1,6 @@
 Link to gameplay footage:
 https://www.youtube.com/watch?v=OdFa8tecQMw
 <br>
-Link to executable game:
-<br>
 
 ---------------------------------
 
